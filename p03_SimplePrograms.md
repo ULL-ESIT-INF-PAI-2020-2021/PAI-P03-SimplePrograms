@@ -90,7 +90,7 @@ y descárguelo en su máquina virtual. Resuelva ese problema.
 
 Para lanzar una excepción (que es lo que se espera en el caso de un parámetro negativo o nulo en este problema) en JavaScript utilice una sentencia como:
 ```js
-throw new Error('Only positive numbers are allowed');
+throw new Error('Mensaje a mostrar cuando se produce el error');
 ```
 
 Para saber más sobre las excepciones en JavaScript estudie el apartado
