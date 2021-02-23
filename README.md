@@ -1,7 +1,4 @@
-## PAI Lab assignment (lab, class presentation with slides) structure
-This directory is organised as follows:
+## PAI Lab assignment 
 
-      .
-      ├── web-server
-      ├── www
+Create a different directory for each exercise
 
